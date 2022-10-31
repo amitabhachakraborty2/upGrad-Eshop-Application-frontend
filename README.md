@@ -1,1 +1,2 @@
-# upGrad-Eshop-Application-frontend
+# ESHOP-Frontend-main
+Upgrad frontend project
